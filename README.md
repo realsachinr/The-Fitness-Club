@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Screenshot 
+
+![image](https://github.com/realsachinr/The-Fitness-Club/assets/154586309/726304f2-ab33-488c-9e31-343d37b95494)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
